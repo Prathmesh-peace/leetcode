@@ -1,0 +1,3 @@
+# Easy Problems
+
+- Two Sum
