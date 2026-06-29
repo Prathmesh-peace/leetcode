@@ -1,0 +1,15 @@
+{
+  "id": "1967",
+  "title": "Number of Strings That Appear as Substrings in Word",
+  "slug": "number-of-strings-that-appear-as-substrings-in-word",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String"
+  ],
+  "language": "java",
+  "runtime": "N/A",
+  "memory": "N/A",
+  "timestamp": 1782709830,
+  "url": "https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/"
+}
