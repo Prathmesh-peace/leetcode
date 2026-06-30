@@ -7,9 +7,9 @@
     "Array",
     "Hash Table"
   ],
-  "language": "java",
-  "runtime": "N/A",
-  "memory": "N/A",
-  "timestamp": 1782705367,
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "20.4 MB",
+  "timestamp": 1782824879,
   "url": "https://leetcode.com/problems/two-sum/description/"
 }
