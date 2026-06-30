@@ -9,8 +9,8 @@
     "Enumeration"
   ],
   "language": "java",
-  "runtime": "N/A",
-  "memory": "N/A",
-  "timestamp": 1782752430,
+  "runtime": "51 ms",
+  "memory": "68.7 MB",
+  "timestamp": 1782795182,
   "url": "https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/"
 }
