@@ -1,0 +1,16 @@
+{
+  "id": "88",
+  "title": "Merge Sorted Array",
+  "slug": "merge-sorted-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "language": "java",
+  "runtime": "4 ms",
+  "memory": "44.1 MB",
+  "timestamp": 1782924464,
+  "url": "https://leetcode.com/problems/merge-sorted-array/description/"
+}
