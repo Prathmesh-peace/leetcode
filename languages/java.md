@@ -5,3 +5,4 @@
 - Maximum Element After Decreasing and Rearranging
 - Find the Maximum Number of Elements in Subset
 - Digit Frequency Score
+- Detect Capital
