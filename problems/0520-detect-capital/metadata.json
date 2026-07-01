@@ -1,0 +1,14 @@
+{
+  "id": "520",
+  "title": "Detect Capital",
+  "slug": "detect-capital",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "java",
+  "runtime": "2 ms",
+  "memory": "43.4 MB",
+  "timestamp": 1782906104,
+  "url": "https://leetcode.com/problems/detect-capital/description/"
+}
