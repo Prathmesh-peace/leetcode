@@ -2,3 +2,4 @@
 
 - Number of Strings That Appear as Substrings in Word
 - Detect Capital
+- Count the Number of Special Characters II
