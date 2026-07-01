@@ -7,3 +7,4 @@
 - Digit Frequency Score
 - Detect Capital
 - Count the Number of Special Characters II
+- Merge Sorted Array
