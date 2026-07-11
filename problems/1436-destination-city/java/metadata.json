@@ -1,0 +1,17 @@
+{
+  "id": "1436",
+  "title": "Destination City",
+  "slug": "destination-city",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String"
+  ],
+  "submissionId": 2063432596,
+  "language": "java",
+  "runtime": "2 ms",
+  "memory": "45 MB",
+  "timestamp": 1783742759,
+  "url": "https://leetcode.com/problems/destination-city/description/"
+}
