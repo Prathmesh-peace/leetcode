@@ -1,0 +1,17 @@
+{
+  "id": "804",
+  "title": "Unique Morse Code Words",
+  "slug": "unique-morse-code-words",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String"
+  ],
+  "submissionId": 2063425003,
+  "language": "java",
+  "runtime": "2 ms",
+  "memory": "43.2 MB",
+  "timestamp": 1783741928,
+  "url": "https://leetcode.com/problems/unique-morse-code-words/description/"
+}
