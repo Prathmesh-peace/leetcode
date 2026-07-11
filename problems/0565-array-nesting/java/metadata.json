@@ -1,0 +1,16 @@
+{
+  "id": "565",
+  "title": "Array Nesting",
+  "slug": "array-nesting",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search"
+  ],
+  "submissionId": 2063636419,
+  "language": "java",
+  "runtime": "11 ms",
+  "memory": "77.2 MB",
+  "timestamp": 1783757318,
+  "url": "https://leetcode.com/problems/array-nesting/description/"
+}
