@@ -8,10 +8,10 @@
     "Hash Table",
     "String"
   ],
-  "submissionId": 2063425003,
+  "submissionId": 2063433214,
   "language": "java",
   "runtime": "2 ms",
-  "memory": "43.2 MB",
-  "timestamp": 1783741928,
+  "memory": "43.1 MB",
+  "timestamp": 1783742822,
   "url": "https://leetcode.com/problems/unique-morse-code-words/description/"
 }
