@@ -1,0 +1,18 @@
+{
+  "id": "2685",
+  "title": "Count the Number of Complete Components",
+  "slug": "count-the-number-of-complete-components",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "submissionId": 2063413832,
+  "language": "java",
+  "runtime": "11 ms",
+  "memory": "47.9 MB",
+  "timestamp": 1783740545,
+  "url": "https://leetcode.com/problems/count-the-number-of-complete-components/description/"
+}
