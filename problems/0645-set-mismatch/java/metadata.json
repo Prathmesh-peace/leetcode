@@ -1,0 +1,18 @@
+{
+  "id": "645",
+  "title": "Set Mismatch",
+  "slug": "set-mismatch",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "submissionId": 2063606694,
+  "language": "java",
+  "runtime": "3 ms",
+  "memory": "47.7 MB",
+  "timestamp": 1783755149,
+  "url": "https://leetcode.com/problems/set-mismatch/description/"
+}
