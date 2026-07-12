@@ -8,10 +8,10 @@
     "Hash Table",
     "Sorting"
   ],
-  "submissionId": 2064544305,
+  "submissionId": 2064554894,
   "language": "java",
-  "runtime": "40 ms",
-  "memory": "78 MB",
-  "timestamp": 1783828754,
+  "runtime": "36 ms",
+  "memory": "75.3 MB",
+  "timestamp": 1783829471,
   "url": "https://leetcode.com/problems/rank-transform-of-an-array/description/"
 }
