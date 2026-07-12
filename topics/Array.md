@@ -7,3 +7,4 @@
 - Longest Consecutive Sequence
 - Rank Transform of an Array
 - Minimum Time Difference
+- Search in Rotated Sorted Array
