@@ -5,3 +5,4 @@
 - Set Mismatch
 - Array Nesting
 - Longest Consecutive Sequence
+- Rank Transform of an Array
