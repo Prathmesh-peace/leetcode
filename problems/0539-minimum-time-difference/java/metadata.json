@@ -1,0 +1,18 @@
+{
+  "id": "539",
+  "title": "Minimum Time Difference",
+  "slug": "minimum-time-difference",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "String",
+    "Sorting"
+  ],
+  "submissionId": 2064641647,
+  "language": "java",
+  "runtime": "17 ms",
+  "memory": "49.1 MB",
+  "timestamp": 1783836029,
+  "url": "https://leetcode.com/problems/minimum-time-difference/description/"
+}
