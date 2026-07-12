@@ -1,0 +1,17 @@
+{
+  "id": "1331",
+  "title": "Rank Transform of an Array",
+  "slug": "rank-transform-of-an-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "submissionId": 2064544305,
+  "language": "java",
+  "runtime": "40 ms",
+  "memory": "78 MB",
+  "timestamp": 1783828754,
+  "url": "https://leetcode.com/problems/rank-transform-of-an-array/description/"
+}
