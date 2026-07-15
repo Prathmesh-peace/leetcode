@@ -10,3 +10,4 @@
 - Search in Rotated Sorted Array
 - Search in Rotated Sorted Array II
 - Find Greatest Common Divisor of Array
+- Minimum Operations to Make Binary Array Elements Equal to One I
