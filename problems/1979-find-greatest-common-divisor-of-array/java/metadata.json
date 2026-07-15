@@ -1,0 +1,17 @@
+{
+  "id": "1979",
+  "title": "Find Greatest Common Divisor of Array",
+  "slug": "find-greatest-common-divisor-of-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Number Theory"
+  ],
+  "submissionId": 2068163544,
+  "language": "java",
+  "runtime": "0 ms",
+  "memory": "45.2 MB",
+  "timestamp": 1784094325,
+  "url": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/"
+}
