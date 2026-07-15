@@ -1,0 +1,19 @@
+{
+  "id": "3191",
+  "title": "Minimum Operations to Make Binary Array Elements Equal to One I",
+  "slug": "minimum-operations-to-make-binary-array-elements-equal-to-one-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Bit Manipulation",
+    "Queue",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "submissionId": 2068906087,
+  "language": "java",
+  "runtime": "6 ms",
+  "memory": "102.8 MB",
+  "timestamp": 1784134824,
+  "url": "https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/"
+}
