@@ -1,0 +1,3 @@
+# Enumeration
+
+- Sequential Digits
