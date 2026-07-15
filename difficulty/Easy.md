@@ -5,3 +5,4 @@
 - Set Mismatch
 - Rank Transform of an Array
 - GCD of Odd and Even Sums
+- Find Greatest Common Divisor of Array
