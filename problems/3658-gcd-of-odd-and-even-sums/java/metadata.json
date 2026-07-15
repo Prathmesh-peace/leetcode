@@ -7,10 +7,10 @@
     "Math",
     "Number Theory"
   ],
-  "submissionId": 2068153467,
+  "submissionId": 2068154597,
   "language": "java",
-  "runtime": "1 ms",
-  "memory": "42.3 MB",
-  "timestamp": 1784093819,
+  "runtime": "0 ms",
+  "memory": "42.6 MB",
+  "timestamp": 1784093875,
   "url": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/description/"
 }
