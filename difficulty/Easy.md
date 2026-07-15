@@ -4,3 +4,4 @@
 - Destination City
 - Set Mismatch
 - Rank Transform of an Array
+- GCD of Odd and Even Sums
