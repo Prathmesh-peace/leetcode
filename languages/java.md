@@ -10,3 +10,4 @@
 - Minimum Time Difference
 - Search in Rotated Sorted Array
 - Search in Rotated Sorted Array II
+- GCD of Odd and Even Sums
