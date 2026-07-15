@@ -12,3 +12,4 @@
 - Search in Rotated Sorted Array II
 - GCD of Odd and Even Sums
 - Find Greatest Common Divisor of Array
+- Sequential Digits
