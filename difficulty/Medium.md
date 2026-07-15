@@ -7,3 +7,4 @@
 - Search in Rotated Sorted Array
 - Search in Rotated Sorted Array II
 - Sequential Digits
+- Minimum Operations to Make Binary Array Elements Equal to One I
