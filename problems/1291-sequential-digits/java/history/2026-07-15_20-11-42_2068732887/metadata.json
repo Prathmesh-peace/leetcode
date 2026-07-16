@@ -1,0 +1,15 @@
+{
+  "id": "1291",
+  "title": "Sequential Digits",
+  "slug": "sequential-digits",
+  "difficulty": "Medium",
+  "topics": [
+    "Enumeration"
+  ],
+  "submissionId": 2068732887,
+  "language": "java",
+  "runtime": "0 ms",
+  "memory": "41.8 MB",
+  "timestamp": 1784126502,
+  "url": "https://leetcode.com/problems/sequential-digits/description/"
+}
