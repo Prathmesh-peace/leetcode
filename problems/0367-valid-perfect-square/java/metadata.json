@@ -1,0 +1,16 @@
+{
+  "id": "367",
+  "title": "Valid Perfect Square",
+  "slug": "valid-perfect-square",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Binary Search"
+  ],
+  "submissionId": 2070754346,
+  "language": "java",
+  "runtime": "0 ms",
+  "memory": "42.1 MB",
+  "timestamp": 1784270144,
+  "url": "https://leetcode.com/problems/valid-perfect-square/description/"
+}
