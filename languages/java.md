@@ -16,3 +16,4 @@
 - Minimum Operations to Make Binary Array Elements Equal to One I
 - Sum of GCD of Formed Pairs
 - Sum of Square Numbers
+- Valid Perfect Square
