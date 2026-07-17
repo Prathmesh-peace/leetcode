@@ -17,3 +17,4 @@
 - Sum of GCD of Formed Pairs
 - Sum of Square Numbers
 - Valid Perfect Square
+- Sum of Squares of Special Elements 
