@@ -8,10 +8,10 @@
     "Binary Search",
     "Dynamic Programming"
   ],
-  "submissionId": 2072255463,
+  "submissionId": 2072564137,
   "language": "java",
-  "runtime": "41 ms",
-  "memory": "46 MB",
-  "timestamp": 1784381683,
+  "runtime": "5 ms",
+  "memory": "46.5 MB",
+  "timestamp": 1784392719,
   "url": "https://leetcode.com/problems/longest-increasing-subsequence/description/"
 }
