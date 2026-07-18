@@ -14,3 +14,4 @@
 - Sum of GCD of Formed Pairs
 - Sum of Squares of Special Elements 
 - Longest Increasing Subsequence
+- Minimum Number of Removals to Make Mountain Array
