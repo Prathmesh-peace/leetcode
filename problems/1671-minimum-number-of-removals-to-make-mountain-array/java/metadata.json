@@ -9,10 +9,10 @@
     "Dynamic Programming",
     "Greedy"
   ],
-  "submissionId": 2072292748,
+  "submissionId": 2072302336,
   "language": "java",
-  "runtime": "36 ms",
-  "memory": "46.3 MB",
-  "timestamp": 1784383953,
+  "runtime": "37 ms",
+  "memory": "46.4 MB",
+  "timestamp": 1784384513,
   "url": "https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/"
 }
