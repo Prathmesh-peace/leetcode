@@ -1,0 +1,17 @@
+{
+  "id": "300",
+  "title": "Longest Increasing Subsequence",
+  "slug": "longest-increasing-subsequence",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming"
+  ],
+  "submissionId": 2072248089,
+  "language": "java",
+  "runtime": "45 ms",
+  "memory": "46.3 MB",
+  "timestamp": 1784381223,
+  "url": "https://leetcode.com/problems/longest-increasing-subsequence/description/"
+}
