@@ -18,3 +18,4 @@
 - Sum of Square Numbers
 - Valid Perfect Square
 - Sum of Squares of Special Elements 
+- Longest Increasing Subsequence
