@@ -22,3 +22,4 @@
 - Minimum Number of Removals to Make Mountain Array
 - Russian Doll Envelopes
 - Valid Parentheses
+- Min Stack
