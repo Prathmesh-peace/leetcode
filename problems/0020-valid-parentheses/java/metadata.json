@@ -1,0 +1,16 @@
+{
+  "id": "20",
+  "title": "Valid Parentheses",
+  "slug": "valid-parentheses",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Stack"
+  ],
+  "submissionId": 2073054638,
+  "language": "java",
+  "runtime": "3 ms",
+  "memory": "43.5 MB",
+  "timestamp": 1784436351,
+  "url": "https://leetcode.com/problems/valid-parentheses/description/"
+}
