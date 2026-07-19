@@ -1,0 +1,16 @@
+{
+  "id": "155",
+  "title": "Min Stack",
+  "slug": "min-stack",
+  "difficulty": "Medium",
+  "topics": [
+    "Stack",
+    "Design"
+  ],
+  "submissionId": 2073077238,
+  "language": "java",
+  "runtime": "35 ms",
+  "memory": "99.7 MB",
+  "timestamp": 1784438143,
+  "url": "https://leetcode.com/problems/min-stack/description/"
+}
