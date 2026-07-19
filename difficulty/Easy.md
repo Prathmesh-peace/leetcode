@@ -8,3 +8,4 @@
 - Find Greatest Common Divisor of Array
 - Valid Perfect Square
 - Sum of Squares of Special Elements 
+- Valid Parentheses
