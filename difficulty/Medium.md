@@ -11,3 +11,4 @@
 - Sum of GCD of Formed Pairs
 - Sum of Square Numbers
 - Longest Increasing Subsequence
+- Min Stack
