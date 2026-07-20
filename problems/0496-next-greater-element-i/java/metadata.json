@@ -9,10 +9,10 @@
     "Stack",
     "Monotonic Stack"
   ],
-  "submissionId": 2074564181,
+  "submissionId": 2074573062,
   "language": "java",
-  "runtime": "3 ms",
-  "memory": "45.2 MB",
-  "timestamp": 1784551712,
+  "runtime": "4 ms",
+  "memory": "45.3 MB",
+  "timestamp": 1784552270,
   "url": "https://leetcode.com/problems/next-greater-element-i/description/"
 }
