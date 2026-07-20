@@ -12,3 +12,4 @@
 - Sum of Square Numbers
 - Longest Increasing Subsequence
 - Min Stack
+- Next Greater Element II
