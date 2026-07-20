@@ -17,3 +17,4 @@
 - Minimum Number of Removals to Make Mountain Array
 - Russian Doll Envelopes
 - Shift 2D Grid
+- Next Greater Element I
