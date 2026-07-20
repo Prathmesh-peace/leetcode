@@ -1,0 +1,17 @@
+{
+  "id": "503",
+  "title": "Next Greater Element II",
+  "slug": "next-greater-element-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "submissionId": 2074645324,
+  "language": "java",
+  "runtime": "11 ms",
+  "memory": "47.9 MB",
+  "timestamp": 1784556378,
+  "url": "https://leetcode.com/problems/next-greater-element-ii/description/"
+}
