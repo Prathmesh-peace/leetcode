@@ -9,3 +9,4 @@
 - Valid Perfect Square
 - Sum of Squares of Special Elements 
 - Valid Parentheses
+- Shift 2D Grid
