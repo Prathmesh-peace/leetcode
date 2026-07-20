@@ -5,3 +5,4 @@
 - Set Mismatch
 - Longest Consecutive Sequence
 - Rank Transform of an Array
+- Next Greater Element I
