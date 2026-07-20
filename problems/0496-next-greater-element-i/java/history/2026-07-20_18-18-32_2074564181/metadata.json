@@ -1,0 +1,18 @@
+{
+  "id": "496",
+  "title": "Next Greater Element I",
+  "slug": "next-greater-element-i",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "submissionId": 2074564181,
+  "language": "java",
+  "runtime": "3 ms",
+  "memory": "45.2 MB",
+  "timestamp": 1784551712,
+  "url": "https://leetcode.com/problems/next-greater-element-i/description/"
+}
