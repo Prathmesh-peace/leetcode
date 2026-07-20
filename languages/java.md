@@ -23,3 +23,4 @@
 - Russian Doll Envelopes
 - Valid Parentheses
 - Min Stack
+- Shift 2D Grid
