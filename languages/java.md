@@ -24,3 +24,4 @@
 - Valid Parentheses
 - Min Stack
 - Shift 2D Grid
+- Next Greater Element I
