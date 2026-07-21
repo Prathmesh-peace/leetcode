@@ -1,0 +1,16 @@
+{
+  "id": "3499",
+  "title": "Maximize Active Section with Trade I",
+  "slug": "maximize-active-section-with-trade-i",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Enumeration"
+  ],
+  "submissionId": 2076228168,
+  "language": "java",
+  "runtime": "70 ms",
+  "memory": "48 MB",
+  "timestamp": 1784656923,
+  "url": "https://leetcode.com/problems/maximize-active-section-with-trade-i/description/"
+}
