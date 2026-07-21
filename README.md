@@ -4,10 +4,10 @@ Automatically synced using **LeetSync**.
 
 ## Statistics
 
-- Total Solved: 28
+- Total Solved: 29
 - Easy: 11
 - Medium: 14
-- Hard: 3
+- Hard: 4
 
 ---
 
