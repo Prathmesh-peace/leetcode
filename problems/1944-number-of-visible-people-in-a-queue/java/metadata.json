@@ -1,0 +1,17 @@
+{
+  "id": "1944",
+  "title": "Number of Visible People in a Queue",
+  "slug": "number-of-visible-people-in-a-queue",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "submissionId": 2075789879,
+  "language": "java",
+  "runtime": "53 ms",
+  "memory": "116.2 MB",
+  "timestamp": 1784636493,
+  "url": "https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/"
+}
