@@ -1,0 +1,19 @@
+{
+  "id": "42",
+  "title": "Trapping Rain Water",
+  "slug": "trapping-rain-water",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Dynamic Programming",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "submissionId": 2075994085,
+  "language": "java",
+  "runtime": "1 ms",
+  "memory": "48.8 MB",
+  "timestamp": 1784647144,
+  "url": "https://leetcode.com/problems/trapping-rain-water/description/"
+}
