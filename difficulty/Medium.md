@@ -14,3 +14,4 @@
 - Min Stack
 - Next Greater Element II
 - Daily Temperatures
+- Maximize Active Section with Trade I
