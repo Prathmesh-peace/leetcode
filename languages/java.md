@@ -29,3 +29,4 @@
 - Daily Temperatures
 - Number of Visible People in a Queue
 - Trapping Rain Water
+- Maximize Active Section with Trade I
