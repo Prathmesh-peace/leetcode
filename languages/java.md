@@ -26,3 +26,4 @@
 - Shift 2D Grid
 - Next Greater Element I
 - Next Greater Element II
+- Daily Temperatures
