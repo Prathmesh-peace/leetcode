@@ -12,3 +12,4 @@
 - Shift 2D Grid
 - Next Greater Element I
 - Two Sum
+- Best Time to Buy and Sell Stock
