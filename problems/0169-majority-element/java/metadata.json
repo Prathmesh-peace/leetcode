@@ -10,10 +10,10 @@
     "Sorting",
     "Counting"
   ],
-  "submissionId": 2076921011,
+  "submissionId": 2076928621,
   "language": "java",
-  "runtime": "7 ms",
-  "memory": "55.8 MB",
-  "timestamp": 1784712804,
+  "runtime": "14 ms",
+  "memory": "52.3 MB",
+  "timestamp": 1784713206,
   "url": "https://leetcode.com/problems/majority-element/description/"
 }
