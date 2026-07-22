@@ -5,3 +5,4 @@
 - Minimum Time Difference
 - Sum of GCD of Formed Pairs
 - Russian Doll Envelopes
+- Majority Element
