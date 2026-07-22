@@ -7,3 +7,4 @@
 - Rank Transform of an Array
 - Next Greater Element I
 - Two Sum
+- Majority Element
