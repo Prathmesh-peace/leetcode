@@ -4,3 +4,4 @@
 - Sum of Square Numbers
 - Trapping Rain Water
 - Merge Sorted Array
+- Rotate Array
