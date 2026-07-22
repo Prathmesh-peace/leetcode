@@ -6,3 +6,4 @@
 - Sum of GCD of Formed Pairs
 - Sum of Square Numbers
 - Valid Perfect Square
+- Rotate Array
