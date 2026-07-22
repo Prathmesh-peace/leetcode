@@ -13,3 +13,4 @@
 - Next Greater Element I
 - Two Sum
 - Best Time to Buy and Sell Stock
+- Majority Element
