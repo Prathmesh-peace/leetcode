@@ -1,0 +1,19 @@
+{
+  "id": "169",
+  "title": "Majority Element",
+  "slug": "majority-element",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Counting"
+  ],
+  "submissionId": 2076921011,
+  "language": "java",
+  "runtime": "7 ms",
+  "memory": "55.8 MB",
+  "timestamp": 1784712804,
+  "url": "https://leetcode.com/problems/majority-element/description/"
+}
