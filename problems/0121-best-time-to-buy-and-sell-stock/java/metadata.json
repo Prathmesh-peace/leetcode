@@ -1,0 +1,16 @@
+{
+  "id": "121",
+  "title": "Best Time to Buy and Sell Stock",
+  "slug": "best-time-to-buy-and-sell-stock",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "submissionId": 2076907200,
+  "language": "java",
+  "runtime": "3 ms",
+  "memory": "94.6 MB",
+  "timestamp": 1784712111,
+  "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/"
+}
