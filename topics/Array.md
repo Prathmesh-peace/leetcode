@@ -26,3 +26,4 @@
 - Best Time to Buy and Sell Stock
 - Majority Element
 - Merge Sorted Array
+- Rotate Array
