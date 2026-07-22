@@ -1,0 +1,3 @@
+# Counting
+
+- Majority Element
