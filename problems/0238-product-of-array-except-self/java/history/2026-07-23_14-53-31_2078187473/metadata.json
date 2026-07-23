@@ -1,0 +1,16 @@
+{
+  "id": "238",
+  "title": "Product of Array Except Self",
+  "slug": "product-of-array-except-self",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "submissionId": 2078187473,
+  "language": "java",
+  "runtime": "3 ms",
+  "memory": "64.9 MB",
+  "timestamp": 1784798611,
+  "url": "https://leetcode.com/problems/product-of-array-except-self/description/"
+}
