@@ -7,10 +7,10 @@
     "Array",
     "Prefix Sum"
   ],
-  "submissionId": 2078187473,
+  "submissionId": 2078219677,
   "language": "java",
-  "runtime": "3 ms",
-  "memory": "64.9 MB",
-  "timestamp": 1784798611,
+  "runtime": "2 ms",
+  "memory": "72.3 MB",
+  "timestamp": 1784800224,
   "url": "https://leetcode.com/problems/product-of-array-except-self/description/"
 }
