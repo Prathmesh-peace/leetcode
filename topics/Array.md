@@ -28,3 +28,4 @@
 - Merge Sorted Array
 - Rotate Array
 - Product of Array Except Self
+- Merge Intervals
