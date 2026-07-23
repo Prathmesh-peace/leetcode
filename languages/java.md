@@ -37,3 +37,4 @@
 - Rotate Array
 - Product of Array Except Self
 - Merge Intervals
+- Insert Interval
