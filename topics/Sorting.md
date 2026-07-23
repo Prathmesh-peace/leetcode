@@ -7,3 +7,4 @@
 - Russian Doll Envelopes
 - Majority Element
 - Merge Sorted Array
+- Merge Intervals
