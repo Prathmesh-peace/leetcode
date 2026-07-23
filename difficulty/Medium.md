@@ -17,3 +17,4 @@
 - Maximize Active Section with Trade I
 - Rotate Array
 - Product of Array Except Self
+- Merge Intervals
