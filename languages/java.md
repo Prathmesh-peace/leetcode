@@ -39,3 +39,4 @@
 - Merge Intervals
 - Insert Interval
 - First Missing Positive
+- Next Permutation
