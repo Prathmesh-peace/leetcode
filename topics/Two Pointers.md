@@ -5,3 +5,4 @@
 - Trapping Rain Water
 - Merge Sorted Array
 - Rotate Array
+- Next Permutation
