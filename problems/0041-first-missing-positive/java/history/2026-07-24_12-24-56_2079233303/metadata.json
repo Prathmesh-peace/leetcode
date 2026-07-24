@@ -1,0 +1,16 @@
+{
+  "id": "41",
+  "title": "First Missing Positive",
+  "slug": "first-missing-positive",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "submissionId": 2079233303,
+  "language": "java",
+  "runtime": "1 ms",
+  "memory": "71.2 MB",
+  "timestamp": 1784876096,
+  "url": "https://leetcode.com/problems/first-missing-positive/description/"
+}
