@@ -8,3 +8,4 @@
 - Next Greater Element I
 - Two Sum
 - Majority Element
+- First Missing Positive
