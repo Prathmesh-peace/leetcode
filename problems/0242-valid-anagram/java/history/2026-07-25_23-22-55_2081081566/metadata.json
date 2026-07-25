@@ -1,0 +1,17 @@
+{
+  "id": "242",
+  "title": "Valid Anagram",
+  "slug": "valid-anagram",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "submissionId": 2081081566,
+  "language": "java",
+  "runtime": "4 ms",
+  "memory": "46.7 MB",
+  "timestamp": 1785001975,
+  "url": "https://leetcode.com/problems/valid-anagram/description/"
+}
