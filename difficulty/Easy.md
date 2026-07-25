@@ -17,3 +17,4 @@
 - Merge Sorted Array
 - Maximum Product of Two Digits
 - Valid Palindrome
+- Valid Anagram
