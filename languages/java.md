@@ -40,3 +40,4 @@
 - Insert Interval
 - First Missing Positive
 - Next Permutation
+- Maximum Product of Two Digits
