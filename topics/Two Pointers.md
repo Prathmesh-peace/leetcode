@@ -6,3 +6,4 @@
 - Merge Sorted Array
 - Rotate Array
 - Next Permutation
+- Valid Palindrome
