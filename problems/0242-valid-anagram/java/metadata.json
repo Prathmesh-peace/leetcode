@@ -8,10 +8,10 @@
     "String",
     "Sorting"
   ],
-  "submissionId": 2081081566,
+  "submissionId": 2081084739,
   "language": "java",
   "runtime": "4 ms",
-  "memory": "46.7 MB",
-  "timestamp": 1785001975,
+  "memory": "44.3 MB",
+  "timestamp": 1785002122,
   "url": "https://leetcode.com/problems/valid-anagram/description/"
 }
