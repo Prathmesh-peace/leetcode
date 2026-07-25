@@ -7,10 +7,10 @@
     "Math",
     "Sorting"
   ],
-  "submissionId": 2080669670,
+  "submissionId": 2080689295,
   "language": "java",
-  "runtime": "3 ms",
-  "memory": "42.2 MB",
-  "timestamp": 1784979008,
+  "runtime": "1 ms",
+  "memory": "42.6 MB",
+  "timestamp": 1784980348,
   "url": "https://leetcode.com/problems/maximum-product-of-two-digits/description/"
 }
