@@ -7,3 +7,4 @@
 - Sum of Square Numbers
 - Valid Perfect Square
 - Rotate Array
+- Maximum Product of Two Digits
