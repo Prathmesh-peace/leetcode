@@ -1,0 +1,16 @@
+{
+  "id": "125",
+  "title": "Valid Palindrome",
+  "slug": "valid-palindrome",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "submissionId": 2080710138,
+  "language": "java",
+  "runtime": "3 ms",
+  "memory": "44.7 MB",
+  "timestamp": 1784981731,
+  "url": "https://leetcode.com/problems/valid-palindrome/description/"
+}
