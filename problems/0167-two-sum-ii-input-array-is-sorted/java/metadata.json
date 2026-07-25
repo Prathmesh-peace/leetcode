@@ -1,0 +1,17 @@
+{
+  "id": "167",
+  "title": "Two Sum II - Input Array Is Sorted",
+  "slug": "two-sum-ii-input-array-is-sorted",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search"
+  ],
+  "submissionId": 2080883150,
+  "language": "java",
+  "runtime": "2 ms",
+  "memory": "48.4 MB",
+  "timestamp": 1784992039,
+  "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/"
+}
