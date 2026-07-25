@@ -1,0 +1,17 @@
+{
+  "id": "15",
+  "title": "3Sum",
+  "slug": "3sum",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "submissionId": 2081069137,
+  "language": "java",
+  "runtime": "35 ms",
+  "memory": "59.2 MB",
+  "timestamp": 1785001396,
+  "url": "https://leetcode.com/problems/3sum/description/"
+}
