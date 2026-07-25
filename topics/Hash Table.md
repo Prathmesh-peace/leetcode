@@ -9,3 +9,4 @@
 - Two Sum
 - Majority Element
 - First Missing Positive
+- Valid Anagram
