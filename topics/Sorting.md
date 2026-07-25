@@ -10,3 +10,4 @@
 - Merge Intervals
 - Maximum Product of Two Digits
 - 3Sum
+- Valid Anagram
