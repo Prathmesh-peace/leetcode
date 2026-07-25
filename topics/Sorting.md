@@ -8,3 +8,4 @@
 - Majority Element
 - Merge Sorted Array
 - Merge Intervals
+- Maximum Product of Two Digits
