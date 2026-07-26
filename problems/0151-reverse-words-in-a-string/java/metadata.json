@@ -1,0 +1,16 @@
+{
+  "id": "151",
+  "title": "Reverse Words in a String",
+  "slug": "reverse-words-in-a-string",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "submissionId": 2082447893,
+  "language": "java",
+  "runtime": "3 ms",
+  "memory": "43.9 MB",
+  "timestamp": 1785089968,
+  "url": "https://leetcode.com/problems/reverse-words-in-a-string/description/"
+}
