@@ -8,3 +8,4 @@
 - Valid Perfect Square
 - Rotate Array
 - Maximum Product of Two Digits
+- Maximum Product of Three Numbers
