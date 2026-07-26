@@ -47,3 +47,4 @@
 - 3Sum
 - Valid Anagram
 - Maximum Product of Three Numbers
+- Group Anagrams
