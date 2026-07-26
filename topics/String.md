@@ -7,3 +7,4 @@
 - Maximize Active Section with Trade I
 - Valid Palindrome
 - Valid Anagram
+- Group Anagrams
