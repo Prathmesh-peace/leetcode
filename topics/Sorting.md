@@ -11,3 +11,4 @@
 - Maximum Product of Two Digits
 - 3Sum
 - Valid Anagram
+- Maximum Product of Three Numbers
