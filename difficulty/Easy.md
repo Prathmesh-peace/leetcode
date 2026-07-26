@@ -18,3 +18,4 @@
 - Maximum Product of Two Digits
 - Valid Palindrome
 - Valid Anagram
+- Maximum Product of Three Numbers
