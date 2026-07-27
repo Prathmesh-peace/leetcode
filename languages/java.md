@@ -50,3 +50,4 @@
 - Group Anagrams
 - Reverse Words in a String
 - Maximum Product of Two Elements in an Array
+- Find the Index of the First Occurrence in a String
