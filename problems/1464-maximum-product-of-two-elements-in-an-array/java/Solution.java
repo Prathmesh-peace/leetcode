@@ -1,13 +1,13 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
-        int k = 2;
-        for(int ele : nums){
-            pq.add(ele);
-            if(pq.size() > k) pq.remove();
+        int max = Integer.MIN_VALUE, smax = Integer.MIN_VALUE;
+        for(int i = 0; i < nums.length; i++){
+            if(nums[i] >= max){
+                smax = max;
+                max = nums[i];
+            }
+            else if(nums[i] > smax && nums[i] != max) smax = nums[i];
         }
-        int x = pq.remove() - 1;
-        int y = pq.remove() - 1;
-        return x*y;
+        return (max-1) * (smax-1);
     }
 }
