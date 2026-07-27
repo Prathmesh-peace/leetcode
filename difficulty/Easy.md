@@ -20,3 +20,4 @@
 - Valid Anagram
 - Maximum Product of Three Numbers
 - Maximum Product of Two Elements in an Array
+- Find the Index of the First Occurrence in a String
