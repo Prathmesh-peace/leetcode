@@ -1,0 +1,17 @@
+{
+  "id": "28",
+  "title": "Find the Index of the First Occurrence in a String",
+  "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "String Matching"
+  ],
+  "submissionId": 2083761922,
+  "language": "java",
+  "runtime": "0 ms",
+  "memory": "43.4 MB",
+  "timestamp": 1785174263,
+  "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/"
+}
