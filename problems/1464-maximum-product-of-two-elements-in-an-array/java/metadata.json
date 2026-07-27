@@ -8,10 +8,10 @@
     "Sorting",
     "Heap (Priority Queue)"
   ],
-  "submissionId": 2083734674,
+  "submissionId": 2083748218,
   "language": "java",
-  "runtime": "3 ms",
-  "memory": "44.8 MB",
-  "timestamp": 1785173230,
+  "runtime": "1 ms",
+  "memory": "44.4 MB",
+  "timestamp": 1785173738,
   "url": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/"
 }
