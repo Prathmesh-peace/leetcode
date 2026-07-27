@@ -19,3 +19,4 @@
 - Valid Palindrome
 - Valid Anagram
 - Maximum Product of Three Numbers
+- Maximum Product of Two Elements in an Array
