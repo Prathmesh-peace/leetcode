@@ -1,0 +1,17 @@
+{
+  "id": "1464",
+  "title": "Maximum Product of Two Elements in an Array",
+  "slug": "maximum-product-of-two-elements-in-an-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "submissionId": 2083734674,
+  "language": "java",
+  "runtime": "3 ms",
+  "memory": "44.8 MB",
+  "timestamp": 1785173230,
+  "url": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/"
+}
