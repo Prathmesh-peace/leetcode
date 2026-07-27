@@ -37,3 +37,4 @@
 - 3Sum
 - Maximum Product of Three Numbers
 - Group Anagrams
+- Maximum Product of Two Elements in an Array
