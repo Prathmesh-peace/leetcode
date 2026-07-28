@@ -8,10 +8,10 @@
     "String",
     "String Matching"
   ],
-  "submissionId": 2083761922,
+  "submissionId": 2085031632,
   "language": "java",
-  "runtime": "0 ms",
-  "memory": "43.4 MB",
-  "timestamp": 1785174263,
+  "runtime": "2 ms",
+  "memory": "42.9 MB",
+  "timestamp": 1785255543,
   "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/"
 }
