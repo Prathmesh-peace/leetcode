@@ -1,0 +1,16 @@
+{
+  "id": "686",
+  "title": "Repeated String Match",
+  "slug": "repeated-string-match",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "String Matching"
+  ],
+  "submissionId": 2086116365,
+  "language": "java",
+  "runtime": "267 ms",
+  "memory": "46.6 MB",
+  "timestamp": 1785329196,
+  "url": "https://leetcode.com/problems/repeated-string-match/description/"
+}
