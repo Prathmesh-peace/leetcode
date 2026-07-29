@@ -7,10 +7,10 @@
     "String",
     "String Matching"
   ],
-  "submissionId": 2086116365,
+  "submissionId": 2086313747,
   "language": "java",
-  "runtime": "267 ms",
-  "memory": "46.6 MB",
-  "timestamp": 1785329196,
+  "runtime": "18 ms",
+  "memory": "47.3 MB",
+  "timestamp": 1785338717,
   "url": "https://leetcode.com/problems/repeated-string-match/description/"
 }
