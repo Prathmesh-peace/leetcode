@@ -1,0 +1,16 @@
+{
+  "id": "459",
+  "title": "Repeated Substring Pattern",
+  "slug": "repeated-substring-pattern",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "String Matching"
+  ],
+  "submissionId": 2086081423,
+  "language": "java",
+  "runtime": "6 ms",
+  "memory": "46.8 MB",
+  "timestamp": 1785327063,
+  "url": "https://leetcode.com/problems/repeated-substring-pattern/description/"
+}
