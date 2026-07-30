@@ -8,10 +8,10 @@
     "String",
     "Dynamic Programming"
   ],
-  "submissionId": 2087470506,
+  "submissionId": 2087535038,
   "language": "java",
-  "runtime": "1695 ms",
-  "memory": "43.7 MB",
-  "timestamp": 1785414070,
+  "runtime": "12 ms",
+  "memory": "43.6 MB",
+  "timestamp": 1785417780,
   "url": "https://leetcode.com/problems/longest-palindromic-substring/description/"
 }
