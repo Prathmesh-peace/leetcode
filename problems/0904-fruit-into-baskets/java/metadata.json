@@ -1,0 +1,17 @@
+{
+  "id": "904",
+  "title": "Fruit Into Baskets",
+  "slug": "fruit-into-baskets",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "submissionId": 2087859527,
+  "language": "java",
+  "runtime": "58 ms",
+  "memory": "71.7 MB",
+  "timestamp": 1785432507,
+  "url": "https://leetcode.com/problems/fruit-into-baskets/description/"
+}
