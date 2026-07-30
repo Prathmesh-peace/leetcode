@@ -2,3 +2,4 @@
 
 - Minimum Operations to Make Binary Array Elements Equal to One I
 - Product of Array Except Self
+- Minimum Size Subarray Sum
