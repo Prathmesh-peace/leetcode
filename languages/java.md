@@ -54,3 +54,4 @@
 - Repeated Substring Pattern
 - Repeated String Match
 - Longest Palindromic Substring
+- Minimum Size Subarray Sum
