@@ -1,0 +1,18 @@
+{
+  "id": "209",
+  "title": "Minimum Size Subarray Sum",
+  "slug": "minimum-size-subarray-sum",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "submissionId": 2087802813,
+  "language": "java",
+  "runtime": "2 ms",
+  "memory": "68.9 MB",
+  "timestamp": 1785430241,
+  "url": "https://leetcode.com/problems/minimum-size-subarray-sum/description/"
+}
