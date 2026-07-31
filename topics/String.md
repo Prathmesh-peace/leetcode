@@ -13,3 +13,4 @@
 - Repeated Substring Pattern
 - Repeated String Match
 - Longest Palindromic Substring
+- Minimum Number of Pushes to Type Word I
