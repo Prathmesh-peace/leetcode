@@ -1,0 +1,18 @@
+{
+  "id": "877",
+  "title": "Stone Game",
+  "slug": "stone-game",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Game Theory"
+  ],
+  "submissionId": 2090992395,
+  "language": "java",
+  "runtime": "0 ms",
+  "memory": "43 MB",
+  "timestamp": 1785652599,
+  "url": "https://leetcode.com/problems/stone-game/description/"
+}
