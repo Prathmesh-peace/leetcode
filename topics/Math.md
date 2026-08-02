@@ -10,3 +10,4 @@
 - Maximum Product of Two Digits
 - Maximum Product of Three Numbers
 - Minimum Number of Pushes to Type Word I
+- Stone Game
