@@ -41,3 +41,4 @@
 - Minimum Size Subarray Sum
 - Fruit Into Baskets
 - Stone Game
+- Predict the Winner
