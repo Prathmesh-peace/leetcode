@@ -1,0 +1,3 @@
+# Minimax
+
+- Stone Game III
