@@ -11,3 +11,4 @@
 - Maximum Product of Three Numbers
 - Minimum Number of Pushes to Type Word I
 - Stone Game
+- Predict the Winner
