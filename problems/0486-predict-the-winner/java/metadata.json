@@ -1,0 +1,19 @@
+{
+  "id": "486",
+  "title": "Predict the Winner",
+  "slug": "predict-the-winner",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Game Theory"
+  ],
+  "submissionId": 2092308312,
+  "language": "java",
+  "runtime": "0 ms",
+  "memory": "42.9 MB",
+  "timestamp": 1785744123,
+  "url": "https://leetcode.com/problems/predict-the-winner/description/"
+}
