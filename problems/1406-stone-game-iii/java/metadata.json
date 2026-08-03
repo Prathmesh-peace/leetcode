@@ -1,0 +1,20 @@
+{
+  "id": "1406",
+  "title": "Stone Game III",
+  "slug": "stone-game-iii",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "submissionId": 2092706189,
+  "language": "java",
+  "runtime": "35 ms",
+  "memory": "92.2 MB",
+  "timestamp": 1785765970,
+  "url": "https://leetcode.com/problems/stone-game-iii/description/"
+}
