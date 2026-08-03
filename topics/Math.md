@@ -12,3 +12,4 @@
 - Minimum Number of Pushes to Type Word I
 - Stone Game
 - Predict the Winner
+- Stone Game III
