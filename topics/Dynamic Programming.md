@@ -7,3 +7,4 @@
 - Best Time to Buy and Sell Stock
 - Longest Palindromic Substring
 - Stone Game
+- Predict the Winner
