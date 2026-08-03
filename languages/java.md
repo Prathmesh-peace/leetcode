@@ -60,3 +60,4 @@
 - Minimum Number of Pushes to Type Word II
 - Longest Substring Without Repeating Characters
 - Stone Game
+- Predict the Winner
