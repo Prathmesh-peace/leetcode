@@ -1,0 +1,17 @@
+{
+  "id": "3731",
+  "title": "Find Missing Elements",
+  "slug": "find-missing-elements",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "submissionId": 2093893648,
+  "language": "java",
+  "runtime": "3 ms",
+  "memory": "46.9 MB",
+  "timestamp": 1785842354,
+  "url": "https://leetcode.com/problems/find-missing-elements/description/"
+}
