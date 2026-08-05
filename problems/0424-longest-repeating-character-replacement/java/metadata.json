@@ -1,0 +1,17 @@
+{
+  "id": "424",
+  "title": "Longest Repeating Character Replacement",
+  "slug": "longest-repeating-character-replacement",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "submissionId": 2095561528,
+  "language": "java",
+  "runtime": "7 ms",
+  "memory": "46.4 MB",
+  "timestamp": 1785946090,
+  "url": "https://leetcode.com/problems/longest-repeating-character-replacement/description/"
+}
