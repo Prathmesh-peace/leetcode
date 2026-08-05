@@ -4,3 +4,4 @@
 - Minimum Size Subarray Sum
 - Fruit Into Baskets
 - Longest Substring Without Repeating Characters
+- Longest Repeating Character Replacement
