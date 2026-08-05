@@ -33,3 +33,4 @@
 - Longest Substring Without Repeating Characters
 - Stone Game
 - Predict the Winner
+- Remove Methods From Project
