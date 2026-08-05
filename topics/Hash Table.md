@@ -15,3 +15,4 @@
 - Minimum Number of Pushes to Type Word II
 - Longest Substring Without Repeating Characters
 - Find Missing Elements
+- Longest Repeating Character Replacement
