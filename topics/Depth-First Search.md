@@ -2,3 +2,4 @@
 
 - Count the Number of Complete Components
 - Array Nesting
+- Remove Methods From Project
