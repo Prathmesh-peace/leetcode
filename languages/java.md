@@ -64,3 +64,4 @@
 - Stone Game III
 - Find Missing Elements
 - Check if Array Is Sorted and Rotated
+- Remove Methods From Project
