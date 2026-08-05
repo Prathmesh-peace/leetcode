@@ -34,3 +34,4 @@
 - Stone Game
 - Predict the Winner
 - Remove Methods From Project
+- Longest Repeating Character Replacement
