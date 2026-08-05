@@ -16,3 +16,4 @@
 - Minimum Number of Pushes to Type Word I
 - Minimum Number of Pushes to Type Word II
 - Longest Substring Without Repeating Characters
+- Longest Repeating Character Replacement
