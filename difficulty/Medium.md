@@ -35,3 +35,4 @@
 - Predict the Winner
 - Remove Methods From Project
 - Longest Repeating Character Replacement
+- Permutation in String
