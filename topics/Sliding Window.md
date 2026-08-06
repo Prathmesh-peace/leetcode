@@ -5,3 +5,4 @@
 - Fruit Into Baskets
 - Longest Substring Without Repeating Characters
 - Longest Repeating Character Replacement
+- Permutation in String
