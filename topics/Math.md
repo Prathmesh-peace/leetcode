@@ -13,3 +13,4 @@
 - Stone Game
 - Predict the Winner
 - Stone Game III
+- Smallest Divisible Digit Product I
