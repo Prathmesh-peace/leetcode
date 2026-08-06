@@ -13,3 +13,4 @@
 - Reverse Words in a String
 - Find the Index of the First Occurrence in a String
 - Longest Palindromic Substring
+- Permutation in String
