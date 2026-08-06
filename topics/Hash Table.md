@@ -16,3 +16,4 @@
 - Longest Substring Without Repeating Characters
 - Find Missing Elements
 - Longest Repeating Character Replacement
+- Permutation in String
