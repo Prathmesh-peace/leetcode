@@ -66,3 +66,4 @@
 - Check if Array Is Sorted and Rotated
 - Remove Methods From Project
 - Smallest Divisible Digit Product I
+- Permutation in String
