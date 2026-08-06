@@ -1,0 +1,16 @@
+{
+  "id": "3345",
+  "title": "Smallest Divisible Digit Product I",
+  "slug": "smallest-divisible-digit-product-i",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Enumeration"
+  ],
+  "submissionId": 2096647108,
+  "language": "java",
+  "runtime": "1 ms",
+  "memory": "42.7 MB",
+  "timestamp": 1786019114,
+  "url": "https://leetcode.com/problems/smallest-divisible-digit-product-i/description/"
+}
