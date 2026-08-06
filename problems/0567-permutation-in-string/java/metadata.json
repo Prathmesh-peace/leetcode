@@ -1,0 +1,18 @@
+{
+  "id": "567",
+  "title": "Permutation in String",
+  "slug": "permutation-in-string",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Two Pointers",
+    "String",
+    "Sliding Window"
+  ],
+  "submissionId": 2096958531,
+  "language": "java",
+  "runtime": "6 ms",
+  "memory": "44.3 MB",
+  "timestamp": 1786033633,
+  "url": "https://leetcode.com/problems/permutation-in-string/description/"
+}
