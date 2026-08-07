@@ -68,3 +68,4 @@
 - Smallest Divisible Digit Product I
 - Permutation in String
 - Maximum Number of Vowels in a Substring of Given Length
+- Subarray Sum Equals K
