@@ -37,3 +37,4 @@
 - Longest Repeating Character Replacement
 - Permutation in String
 - Maximum Number of Vowels in a Substring of Given Length
+- Subarray Sum Equals K
