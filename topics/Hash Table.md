@@ -18,3 +18,4 @@
 - Longest Repeating Character Replacement
 - Permutation in String
 - Subarray Sum Equals K
+- Subarray Sums Divisible by K
