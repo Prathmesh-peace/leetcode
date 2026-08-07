@@ -8,10 +8,10 @@
     "Hash Table",
     "Prefix Sum"
   ],
-  "submissionId": 2097932253,
+  "submissionId": 2097952306,
   "language": "java",
-  "runtime": "1538 ms",
-  "memory": "48.4 MB",
-  "timestamp": 1786105909,
+  "runtime": "18 ms",
+  "memory": "48.6 MB",
+  "timestamp": 1786107250,
   "url": "https://leetcode.com/problems/subarray-sum-equals-k/description/"
 }
