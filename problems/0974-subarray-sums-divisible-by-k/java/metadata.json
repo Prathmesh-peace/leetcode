@@ -8,10 +8,10 @@
     "Hash Table",
     "Prefix Sum"
   ],
-  "submissionId": 2098065593,
+  "submissionId": 2098067840,
   "language": "java",
-  "runtime": "21 ms",
-  "memory": "50.1 MB",
-  "timestamp": 1786113593,
+  "runtime": "17 ms",
+  "memory": "51.7 MB",
+  "timestamp": 1786113717,
   "url": "https://leetcode.com/problems/subarray-sums-divisible-by-k/description/"
 }
