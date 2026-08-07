@@ -1,0 +1,17 @@
+{
+  "id": "303",
+  "title": "Range Sum Query - Immutable",
+  "slug": "range-sum-query-immutable",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Design",
+    "Prefix Sum"
+  ],
+  "submissionId": 2098080665,
+  "language": "java",
+  "runtime": "8 ms",
+  "memory": "48 MB",
+  "timestamp": 1786114446,
+  "url": "https://leetcode.com/problems/range-sum-query-immutable/description/"
+}
