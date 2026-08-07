@@ -1,0 +1,17 @@
+{
+  "id": "525",
+  "title": "Contiguous Array",
+  "slug": "contiguous-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "submissionId": 2098219495,
+  "language": "java",
+  "runtime": "19 ms",
+  "memory": "65.1 MB",
+  "timestamp": 1786121505,
+  "url": "https://leetcode.com/problems/contiguous-array/description/"
+}
