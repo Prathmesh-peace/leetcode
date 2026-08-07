@@ -6,3 +6,4 @@
 - Longest Substring Without Repeating Characters
 - Longest Repeating Character Replacement
 - Permutation in String
+- Maximum Number of Vowels in a Substring of Given Length
