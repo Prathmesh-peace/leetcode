@@ -67,3 +67,4 @@
 - Remove Methods From Project
 - Smallest Divisible Digit Product I
 - Permutation in String
+- Maximum Number of Vowels in a Substring of Given Length
