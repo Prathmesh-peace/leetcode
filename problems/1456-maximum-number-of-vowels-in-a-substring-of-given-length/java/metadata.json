@@ -1,0 +1,16 @@
+{
+  "id": "1456",
+  "title": "Maximum Number of Vowels in a Substring of Given Length",
+  "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Sliding Window"
+  ],
+  "submissionId": 2097915494,
+  "language": "java",
+  "runtime": "11 ms",
+  "memory": "46.5 MB",
+  "timestamp": 1786104727,
+  "url": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/"
+}
