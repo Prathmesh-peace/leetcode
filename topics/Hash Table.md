@@ -17,3 +17,4 @@
 - Find Missing Elements
 - Longest Repeating Character Replacement
 - Permutation in String
+- Subarray Sum Equals K
