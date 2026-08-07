@@ -6,8 +6,10 @@ class Solution {
         for(int i = 0; i < nums.length; i++){
             if(nums[i] % k == 0) count++;
             int rem = ((nums[i] % k) + k) % k;
-            if(map.containsKey(rem)) count += map.get(rem);
-            if(map.containsKey(rem)) map.put(rem, map.get(rem) + 1);
+            if(map.containsKey(rem)) {
+                count += map.get(rem);
+                map.put(rem, map.get(rem) + 1);
+            }
             else map.put(rem, 1);
         }
         return count;
