@@ -38,3 +38,4 @@
 - Permutation in String
 - Maximum Number of Vowels in a Substring of Given Length
 - Subarray Sum Equals K
+- Subarray Sums Divisible by K
