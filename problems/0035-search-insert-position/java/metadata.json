@@ -1,0 +1,16 @@
+{
+  "id": "35",
+  "title": "Search Insert Position",
+  "slug": "search-insert-position",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "submissionId": 2099108563,
+  "language": "java",
+  "runtime": "0 ms",
+  "memory": "44.8 MB",
+  "timestamp": 1786193724,
+  "url": "https://leetcode.com/problems/search-insert-position/description/"
+}
