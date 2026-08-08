@@ -49,3 +49,4 @@
 - Subarray Sums Divisible by K
 - Range Sum Query - Immutable
 - Contiguous Array
+- Search Insert Position
