@@ -10,3 +10,4 @@
 - Two Sum II - Input Array Is Sorted
 - Minimum Size Subarray Sum
 - Search Insert Position
+- Find Minimum in Rotated Sorted Array
