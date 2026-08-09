@@ -40,3 +40,4 @@
 - Subarray Sum Equals K
 - Subarray Sums Divisible by K
 - Contiguous Array
+- Find Minimum in Rotated Sorted Array
