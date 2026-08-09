@@ -50,3 +50,4 @@
 - Range Sum Query - Immutable
 - Contiguous Array
 - Search Insert Position
+- Find Minimum in Rotated Sorted Array
