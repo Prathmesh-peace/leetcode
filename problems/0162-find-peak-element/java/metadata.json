@@ -1,0 +1,16 @@
+{
+  "id": "162",
+  "title": "Find Peak Element",
+  "slug": "find-peak-element",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "submissionId": 2104145859,
+  "language": "java",
+  "runtime": "0 ms",
+  "memory": "44.1 MB",
+  "timestamp": 1786536980,
+  "url": "https://leetcode.com/problems/find-peak-element/description/"
+}
