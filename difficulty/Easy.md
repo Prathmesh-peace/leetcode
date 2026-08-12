@@ -28,3 +28,4 @@
 - Smallest Divisible Digit Product I
 - Range Sum Query - Immutable
 - Search Insert Position
+- Find the Peaks
