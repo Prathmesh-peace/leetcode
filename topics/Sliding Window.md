@@ -7,3 +7,4 @@
 - Longest Repeating Character Replacement
 - Permutation in String
 - Maximum Number of Vowels in a Substring of Given Length
+- Length of Longest Subarray With at Most K Frequency
