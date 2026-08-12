@@ -1,0 +1,16 @@
+{
+  "id": "2951",
+  "title": "Find the Peaks",
+  "slug": "find-the-peaks",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Enumeration"
+  ],
+  "submissionId": 2104151522,
+  "language": "java",
+  "runtime": "1 ms",
+  "memory": "45.5 MB",
+  "timestamp": 1786537347,
+  "url": "https://leetcode.com/problems/find-the-peaks/description/"
+}
