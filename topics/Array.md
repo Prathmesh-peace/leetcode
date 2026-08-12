@@ -54,3 +54,4 @@
 - Find Minimum in Rotated Sorted Array II
 - Length of Longest Subarray With at Most K Frequency
 - Find Peak Element
+- Find the Peaks
