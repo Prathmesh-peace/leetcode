@@ -43,3 +43,4 @@
 - Find Minimum in Rotated Sorted Array
 - Length of Longest Subarray With at Most K Frequency
 - Find Peak Element
+- Koko Eating Bananas
