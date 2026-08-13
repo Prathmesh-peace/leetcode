@@ -55,3 +55,4 @@
 - Length of Longest Subarray With at Most K Frequency
 - Find Peak Element
 - Find the Peaks
+- Koko Eating Bananas
