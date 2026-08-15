@@ -1,0 +1,16 @@
+{
+  "id": "876",
+  "title": "Middle of the Linked List",
+  "slug": "middle-of-the-linked-list",
+  "difficulty": "Easy",
+  "topics": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "submissionId": 2107396382,
+  "language": "java",
+  "runtime": "0 ms",
+  "memory": "42.7 MB",
+  "timestamp": 1786780830,
+  "url": "https://leetcode.com/problems/middle-of-the-linked-list/description/"
+}
