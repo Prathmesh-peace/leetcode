@@ -45,3 +45,4 @@
 - Find Peak Element
 - Koko Eating Bananas
 - Capacity To Ship Packages Within D Days
+- Remove Nth Node From End of List
