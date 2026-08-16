@@ -32,3 +32,4 @@
 - Maximum Length Substring With Two Occurrences
 - Middle of the Linked List
 - Merge Two Sorted Lists
+- Reverse Linked List
