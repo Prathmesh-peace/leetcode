@@ -88,3 +88,4 @@
 - Reverse Linked List
 - Linked List Cycle
 - Linked List Cycle II
+- Cinema Seat Allocation
