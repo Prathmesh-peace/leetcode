@@ -1,0 +1,18 @@
+{
+  "id": "1386",
+  "title": "Cinema Seat Allocation",
+  "slug": "cinema-seat-allocation",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Bit Manipulation"
+  ],
+  "submissionId": 2112637642,
+  "language": "java",
+  "runtime": "29 ms",
+  "memory": "51.6 MB",
+  "timestamp": 1787140208,
+  "url": "https://leetcode.com/problems/cinema-seat-allocation/description/"
+}
