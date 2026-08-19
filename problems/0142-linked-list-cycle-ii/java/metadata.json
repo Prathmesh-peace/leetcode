@@ -9,10 +9,10 @@
     "Two Pointers",
     "Floyd's Cycle Finding Algorithm"
   ],
-  "submissionId": 2109877559,
+  "submissionId": 2112674028,
   "language": "java",
-  "runtime": "7 ms",
-  "memory": "47.2 MB",
-  "timestamp": 1786954629,
+  "runtime": "0 ms",
+  "memory": "47 MB",
+  "timestamp": 1787142779,
   "url": "https://leetcode.com/problems/linked-list-cycle-ii/description/"
 }
