@@ -58,3 +58,4 @@
 - Koko Eating Bananas
 - Capacity To Ship Packages Within D Days
 - Split Array Largest Sum
+- Cinema Seat Allocation
