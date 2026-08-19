@@ -24,3 +24,4 @@
 - Maximum Length Substring With Two Occurrences
 - Linked List Cycle
 - Linked List Cycle II
+- Cinema Seat Allocation
