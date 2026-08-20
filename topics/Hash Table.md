@@ -25,3 +25,4 @@
 - Linked List Cycle
 - Linked List Cycle II
 - Cinema Seat Allocation
+- Intersection of Two Linked Lists
