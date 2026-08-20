@@ -1,0 +1,16 @@
+{
+  "id": "25",
+  "title": "Reverse Nodes in k-Group",
+  "slug": "reverse-nodes-in-k-group",
+  "difficulty": "Hard",
+  "topics": [
+    "Linked List",
+    "Recursion"
+  ],
+  "submissionId": 2114328621,
+  "language": "java",
+  "runtime": "0 ms",
+  "memory": "46.3 MB",
+  "timestamp": 1787250167,
+  "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/description/"
+}
