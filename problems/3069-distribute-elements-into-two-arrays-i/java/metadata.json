@@ -1,0 +1,16 @@
+{
+  "id": "3069",
+  "title": "Distribute Elements Into Two Arrays I",
+  "slug": "distribute-elements-into-two-arrays-i",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "submissionId": 2113939455,
+  "language": "java",
+  "runtime": "2 ms",
+  "memory": "46.7 MB",
+  "timestamp": 1787230803,
+  "url": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/description/"
+}
