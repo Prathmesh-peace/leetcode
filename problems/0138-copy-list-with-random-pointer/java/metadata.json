@@ -1,0 +1,16 @@
+{
+  "id": "138",
+  "title": "Copy List with Random Pointer",
+  "slug": "copy-list-with-random-pointer",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Linked List"
+  ],
+  "submissionId": 2114037250,
+  "language": "java",
+  "runtime": "0 ms",
+  "memory": "46.7 MB",
+  "timestamp": 1787236284,
+  "url": "https://leetcode.com/problems/copy-list-with-random-pointer/description/"
+}
