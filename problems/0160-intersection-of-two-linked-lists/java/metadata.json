@@ -1,0 +1,17 @@
+{
+  "id": "160",
+  "title": "Intersection of Two Linked Lists",
+  "slug": "intersection-of-two-linked-lists",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers"
+  ],
+  "submissionId": 2113969883,
+  "language": "java",
+  "runtime": "1 ms",
+  "memory": "53 MB",
+  "timestamp": 1787232625,
+  "url": "https://leetcode.com/problems/intersection-of-two-linked-lists/description/"
+}
