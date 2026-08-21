@@ -5,12 +5,13 @@
   "difficulty": "Easy",
   "topics": [
     "String",
-    "Stack"
+    "Stack",
+    "Bracket Sequences"
   ],
-  "submissionId": 2073054638,
+  "submissionId": 2115305876,
   "language": "java",
-  "runtime": "3 ms",
-  "memory": "43.5 MB",
-  "timestamp": 1784436351,
+  "runtime": "4 ms",
+  "memory": "43.6 MB",
+  "timestamp": 1787331733,
   "url": "https://leetcode.com/problems/valid-parentheses/description/"
 }
