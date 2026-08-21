@@ -8,6 +8,7 @@ Easy
 
 - String
 - Stack
+- Bracket Sequences
 
 ## Problem
 
