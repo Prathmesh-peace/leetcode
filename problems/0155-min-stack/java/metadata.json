@@ -7,10 +7,10 @@
     "Stack",
     "Design"
   ],
-  "submissionId": 2073482675,
+  "submissionId": 2115872651,
   "language": "java",
-  "runtime": "31 ms",
-  "memory": "102.1 MB",
-  "timestamp": 1784466411,
+  "runtime": "37 ms",
+  "memory": "102.4 MB",
+  "timestamp": 1787384912,
   "url": "https://leetcode.com/problems/min-stack/description/"
 }
