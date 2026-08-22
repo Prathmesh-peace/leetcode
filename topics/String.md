@@ -20,3 +20,4 @@
 - Permutation in String
 - Maximum Number of Vowels in a Substring of Given Length
 - Maximum Length Substring With Two Occurrences
+- Decode String
