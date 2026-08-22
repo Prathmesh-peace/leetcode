@@ -60,3 +60,4 @@
 - Split Array Largest Sum
 - Cinema Seat Allocation
 - Distribute Elements Into Two Arrays I
+- Largest Rectangle in Histogram
