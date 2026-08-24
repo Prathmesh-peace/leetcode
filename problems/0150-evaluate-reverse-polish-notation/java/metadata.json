@@ -8,10 +8,10 @@
     "Math",
     "Stack"
   ],
-  "submissionId": 2118508002,
+  "submissionId": 2118518008,
   "language": "java",
   "runtime": "7 ms",
-  "memory": "45.4 MB",
-  "timestamp": 1787580274,
+  "memory": "45.5 MB",
+  "timestamp": 1787580786,
   "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/description/"
 }
