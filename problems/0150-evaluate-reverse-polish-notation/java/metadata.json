@@ -1,0 +1,17 @@
+{
+  "id": "150",
+  "title": "Evaluate Reverse Polish Notation",
+  "slug": "evaluate-reverse-polish-notation",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Stack"
+  ],
+  "submissionId": 2118508002,
+  "language": "java",
+  "runtime": "7 ms",
+  "memory": "45.4 MB",
+  "timestamp": 1787580274,
+  "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/description/"
+}
