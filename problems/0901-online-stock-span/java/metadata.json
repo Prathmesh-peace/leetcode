@@ -1,0 +1,18 @@
+{
+  "id": "901",
+  "title": "Online Stock Span",
+  "slug": "online-stock-span",
+  "difficulty": "Medium",
+  "topics": [
+    "Stack",
+    "Design",
+    "Monotonic Stack",
+    "Data Stream"
+  ],
+  "submissionId": 2119254497,
+  "language": "java",
+  "runtime": "34 ms",
+  "memory": "55.4 MB",
+  "timestamp": 1787637254,
+  "url": "https://leetcode.com/problems/online-stock-span/description/"
+}
