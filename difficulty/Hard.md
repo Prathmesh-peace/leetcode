@@ -10,3 +10,4 @@
 - Split Array Largest Sum
 - Reverse Nodes in k-Group
 - Largest Rectangle in Histogram
+- Sliding Window Maximum
