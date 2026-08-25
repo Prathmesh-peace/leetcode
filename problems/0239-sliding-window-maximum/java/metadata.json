@@ -1,0 +1,20 @@
+{
+  "id": "239",
+  "title": "Sliding Window Maximum",
+  "slug": "sliding-window-maximum",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Queue",
+    "Sliding Window",
+    "Heap (Priority Queue)",
+    "Monotonic Queue",
+    "Range Minimum/Maximum Query"
+  ],
+  "submissionId": 2119316346,
+  "language": "java",
+  "runtime": "32 ms",
+  "memory": "146.9 MB",
+  "timestamp": 1787640373,
+  "url": "https://leetcode.com/problems/sliding-window-maximum/description/"
+}
