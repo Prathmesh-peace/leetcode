@@ -4,9 +4,9 @@ Automatically synced using **LeetSync**.
 
 ## Statistics
 
-- Total Solved: 99
+- Total Solved: 100
 - Easy: 37
-- Medium: 52
+- Medium: 53
 - Hard: 10
 
 ---
