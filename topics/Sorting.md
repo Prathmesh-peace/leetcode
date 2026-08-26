@@ -16,3 +16,4 @@
 - Maximum Product of Two Elements in an Array
 - Minimum Number of Pushes to Type Word II
 - Find Missing Elements
+- Contains Duplicate
