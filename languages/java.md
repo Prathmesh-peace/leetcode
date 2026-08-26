@@ -101,3 +101,4 @@
 - Online Stock Span
 - Sliding Window Maximum
 - Design Circular Queue
+- Contains Duplicate
