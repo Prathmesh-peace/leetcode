@@ -1,0 +1,17 @@
+{
+  "id": "128",
+  "title": "Longest Consecutive Sequence",
+  "slug": "longest-consecutive-sequence",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Union-Find"
+  ],
+  "submissionId": 2063675465,
+  "language": "java",
+  "runtime": "40 ms",
+  "memory": "96.4 MB",
+  "timestamp": 1783760117,
+  "url": "https://leetcode.com/problems/longest-consecutive-sequence/description/"
+}
