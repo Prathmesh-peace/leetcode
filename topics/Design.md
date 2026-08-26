@@ -4,3 +4,4 @@
 - Range Sum Query - Immutable
 - LRU Cache
 - Online Stock Span
+- Design Circular Queue
