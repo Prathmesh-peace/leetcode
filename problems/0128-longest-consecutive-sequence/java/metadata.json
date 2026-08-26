@@ -8,10 +8,10 @@
     "Hash Table",
     "Union-Find"
   ],
-  "submissionId": 2120463827,
+  "submissionId": 2120482869,
   "language": "java",
-  "runtime": "20 ms",
-  "memory": "77.3 MB",
-  "timestamp": 1787725778,
+  "runtime": "32 ms",
+  "memory": "95.2 MB",
+  "timestamp": 1787726873,
   "url": "https://leetcode.com/problems/longest-consecutive-sequence/description/"
 }
