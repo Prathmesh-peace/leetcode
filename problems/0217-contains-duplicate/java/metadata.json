@@ -8,10 +8,10 @@
     "Hash Table",
     "Sorting"
   ],
-  "submissionId": 2120429244,
+  "submissionId": 2120434486,
   "language": "java",
-  "runtime": "22 ms",
-  "memory": "108 MB",
-  "timestamp": 1787723873,
+  "runtime": "23 ms",
+  "memory": "81.4 MB",
+  "timestamp": 1787724158,
   "url": "https://leetcode.com/problems/contains-duplicate/description/"
 }
