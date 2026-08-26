@@ -100,3 +100,4 @@
 - Evaluate Reverse Polish Notation
 - Online Stock Span
 - Sliding Window Maximum
+- Design Circular Queue
