@@ -7,10 +7,10 @@
     "Hash Table",
     "String"
   ],
-  "submissionId": 2127161309,
+  "submissionId": 2127163793,
   "language": "java",
   "runtime": "6 ms",
-  "memory": "43.7 MB",
-  "timestamp": 1788262796,
+  "memory": "43.8 MB",
+  "timestamp": 1788262996,
   "url": "https://leetcode.com/problems/isomorphic-strings/description/"
 }
