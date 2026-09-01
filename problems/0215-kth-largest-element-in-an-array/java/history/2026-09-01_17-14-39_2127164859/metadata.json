@@ -1,0 +1,19 @@
+{
+  "id": "215",
+  "title": "Kth Largest Element in an Array",
+  "slug": "kth-largest-element-in-an-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Quickselect"
+  ],
+  "submissionId": 2127164859,
+  "language": "java",
+  "runtime": "69 ms",
+  "memory": "74.7 MB",
+  "timestamp": 1788263079,
+  "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/description/"
+}
