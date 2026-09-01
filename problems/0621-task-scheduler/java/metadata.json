@@ -1,0 +1,20 @@
+{
+  "id": "621",
+  "title": "Task Scheduler",
+  "slug": "task-scheduler",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Counting"
+  ],
+  "submissionId": 2127237219,
+  "language": "java",
+  "runtime": "30 ms",
+  "memory": "48.5 MB",
+  "timestamp": 1788268343,
+  "url": "https://leetcode.com/problems/task-scheduler/description/"
+}
