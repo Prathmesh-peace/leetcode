@@ -7,3 +7,4 @@
 - Split Array Largest Sum
 - Cinema Seat Allocation
 - Removing Minimum and Maximum From Array
+- Task Scheduler
