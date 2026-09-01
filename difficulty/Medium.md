@@ -58,3 +58,4 @@
 - Top K Frequent Elements
 - Find the Minimum and Maximum Number of Nodes Between Critical Points
 - Kth Largest Element in an Array
+- K Closest Points to Origin
