@@ -1,0 +1,16 @@
+{
+  "id": "205",
+  "title": "Isomorphic Strings",
+  "slug": "isomorphic-strings",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "submissionId": 2127160421,
+  "language": "java",
+  "runtime": "6 ms",
+  "memory": "43.9 MB",
+  "timestamp": 1788262720,
+  "url": "https://leetcode.com/problems/isomorphic-strings/description/"
+}
