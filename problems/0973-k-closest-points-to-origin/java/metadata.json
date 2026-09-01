@@ -1,0 +1,22 @@
+{
+  "id": "973",
+  "title": "K Closest Points to Origin",
+  "slug": "k-closest-points-to-origin",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Divide and Conquer",
+    "Geometry",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Quickselect",
+    "K-D Tree"
+  ],
+  "submissionId": 2127177934,
+  "language": "java",
+  "runtime": "24 ms",
+  "memory": "55.4 MB",
+  "timestamp": 1788264112,
+  "url": "https://leetcode.com/problems/k-closest-points-to-origin/description/"
+}
